@@ -25,11 +25,15 @@ Let's build something incredible together! 🚀✨
 <h1 align="center"> ⚙️GitHub Stats</h1> 
 
 
-<div align="center" display="flex" flex-col>
-  
+<div align="center" >
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsangoni&layout=donut)](https://github.com/simsangoni/github-readme-stats)
 </div>
+
+<h2 align="center"></h2>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsangoni&layout=donut)](https://github.com/simsangoni/github-readme-stats)
+</div>
+
 
 <h1 align="center">Projects</h1>
 
