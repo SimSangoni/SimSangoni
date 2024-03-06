@@ -1,27 +1,27 @@
-# 🌚🙋🏾‍♀️Simnikiwe Sangoni,
+<h1 align="center">🌚🙋🏾‍♀️Simnikiwe Sangoni</h1> 
 
 **`Elevating Minds, Crafting Code: Coding Enthusiast and Language Tutor on a Mission to Merge Passion with Precision in Software Development and Machine Learning.`**
 
-### I am a passionate coder hailing from the vibrant landscapes of South Africa. 🇿🇦 Currently on a software development coding journey at CodeSpace, blending my love for software development with a background in aeronautical engineering. 💻✈️ When not immersed in code, you might find me tutoring math, history, English, science, and even Mandarin. 📚🌐 I thrive on order, structure, and the thrill of solving problems with a touch of Python magic. 
+<h3 align="center">I am a passionate coder hailing from the vibrant landscapes of South Africa. 🇿🇦 Currently on a software development coding journey at CodeSpace, blending my love for software development with a background in aeronautical engineering. 💻✈️ When not immersed in code, you might find me tutoring math, history, English, science, and even Mandarin. 📚🌐 I thrive on order, structure, and the thrill of solving problems with a touch of Python magic. 
 
-### My overarching goal is to continually enhance my skills in software development while sharing knowledge with a global community. Committed to fostering an environment of growth, I aspire to inspire and contribute to the collective journey of continuous improvement within the coding and teaching realms." 🌱📚💡
+My overarching goal is to continually enhance my skills in software development while sharing knowledge with a global community. Committed to fostering an environment of growth, I aspire to inspire and contribute to the collective journey of continuous improvement within the coding and teaching realms." 🌱📚💡
 
-### Let's build something incredible together! 🚀✨
-
+Let's build something incredible together! 🚀✨
+</h3> 
 
 <h2 align="center">💻Tech Stack:</h2>&nbsp;
 
-<br>
-<p align="center">
+<div align="center">
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-  
-  </p>
-</br>
+  ![Tailwind]("https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white")&nbsp;
+  ![Excel]("https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white")
+</div>
+
 
 
 <h1 align="center"> ⚙️GitHub Stats</h1> 
@@ -29,9 +29,19 @@
 
 <p align="center">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni)](https://github.com/simsangoni/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsangoni&size_weight=0.5&count_weight=0.5)
-![](https://komarev.com/ghpvc/?username=simsangoni)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simsangoni)](https://git.io/streak-stats)
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simsangoni&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simsangoni&theme=dark&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+<p>
+  <a href="https://git.io/streak-stats"><img alt="My GitHub Stats" align="center" src="https://streak-stats.demolab.com?user=simsangoni&theme=dark" alt="GitHub Streak" /></a>
+</p>
+
+
 </p>
 
 # Projects
