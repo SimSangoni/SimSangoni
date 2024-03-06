@@ -18,8 +18,6 @@ Let's build something incredible together! 🚀✨
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-  ![Tailwind]("https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white")&nbsp;
-  ![Excel]("https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white")&nbsp;
 </div>
 
 
@@ -28,18 +26,21 @@ Let's build something incredible together! 🚀✨
 
 
 <div align="center">
+  
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsangoni&layout=donut)](https://github.com/simsangoni/github-readme-stats)
 </div>
 
 <h1 align="center">Projects</h1>
 
-<h3 align="center">Completed ✅</h2>
-<h3 align="center">Ongoing 🕔</h2>
-<h3 align="center">Future 📃 </h2>
+<h3 align="center">Completed ✅</h3>
+<h3 align="center">Ongoing 🕔</h3>
+<h3 align="center">Future 📃 </h3>
 
 
 <br>
 <h2 align="center">Contact Me</h2>
+
 <p align="center">
 <a href="https://www.instagram.com/simsangoni/" target="_blank"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram link" /></a>&nbsp;
 <a href="mailto:simnikiwesangoni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email address"/></a>&nbsp;
