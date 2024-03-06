@@ -19,7 +19,7 @@ Let's build something incredible together! 🚀✨
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
   ![Tailwind]("https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white")&nbsp;
-  ![Excel]("https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white")
+  ![Excel]("https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white")&nbsp;
 </div>
 
 
@@ -29,32 +29,21 @@ Let's build something incredible together! 🚀✨
 
 <p align="center">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni)](https://github.com/simsangoni/github-readme-stats)
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simsangoni&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simsangoni&theme=dark&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
-<p>
-  <a href="https://git.io/streak-stats"><img alt="My GitHub Stats" align="center" src="https://streak-stats.demolab.com?user=simsangoni&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
+# 
+<h1 align="center">Projects</h1>
 
-</p>
+<h2 align="center">Completed ✅</h2>
+<h2 align="center">Ongoing 🕔</h2>
+<h2 align="center">Future 📃 </h2>
 
-# Projects
-
-## Completed
-## Ongoing
-## Future
 
 <br>
 <h2 align="center">Contact Me</h2>
 <p align="center">
 <a href="https://www.instagram.com/simsangoni/"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram link" /></a>&nbsp;
-<a href="mailto:simnikiwesangoni@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email address"/></a>&nbsp;
+<a href="mailto:simnikiwesangoni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email address"/></a>&nbsp;
 <a href="https://simnikiwe-sangoni.netlify.app/"><img src="https://img.shields.io/badge/my%20website-8A2BE2.svg?&style=for-the-badge" alt="personal portfolio link"/></a>
 <a href="https://www.linkedin.com/in/simnikiwe-sangoni-8a3892164/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn link" /></a>
 </p>
