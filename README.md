@@ -17,6 +17,7 @@
 - **JavaScript:** Beginner
 
 # GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
 
