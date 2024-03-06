@@ -27,39 +27,24 @@ Let's build something incredible together! 🚀✨
 <h1 align="center"> ⚙️GitHub Stats</h1> 
 
 
-<p align="center">
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni)](https://github.com/simsangoni/github-readme-stats)
-</p>
+<div align="center">
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni&show_icons=true&theme=radical)
+</div>
 
-# 
 <h1 align="center">Projects</h1>
 
-<h2 align="center">Completed ✅</h2>
-<h2 align="center">Ongoing 🕔</h2>
-<h2 align="center">Future 📃 </h2>
+<h3 align="center">Completed ✅</h2>
+<h3 align="center">Ongoing 🕔</h2>
+<h3 align="center">Future 📃 </h2>
 
 
 <br>
 <h2 align="center">Contact Me</h2>
 <p align="center">
-<a href="https://www.instagram.com/simsangoni/"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram link" /></a>&nbsp;
+<a href="https://www.instagram.com/simsangoni/" target="_blank"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram link" /></a>&nbsp;
 <a href="mailto:simnikiwesangoni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email address"/></a>&nbsp;
 <a href="https://simnikiwe-sangoni.netlify.app/"><img src="https://img.shields.io/badge/my%20website-8A2BE2.svg?&style=for-the-badge" alt="personal portfolio link"/></a>
 <a href="https://www.linkedin.com/in/simnikiwe-sangoni-8a3892164/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn link" /></a>
 </p>
 </br>
-<!--
-**SimSangoni/SimSangoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
