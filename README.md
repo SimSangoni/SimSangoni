@@ -23,13 +23,16 @@
   </p>
 </br>
 
-- **Python:** Proficient
-- **MATLAB:** Experienced
-- **HTML/CSS with Tailwind:** Intermediate
-- **JavaScript:** Beginner
 
-# GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center"> ⚙️GitHub Stats</h1> 
+
+
+<p align="center">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsangoni)](https://github.com/simsangoni/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsangoni&size_weight=0.5&count_weight=0.5)
+![](https://komarev.com/ghpvc/?username=simsangoni)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simsangoni)](https://git.io/streak-stats)
+</p>
 
 # Projects
 
