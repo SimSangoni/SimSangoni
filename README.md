@@ -9,7 +9,7 @@ My overarching goal is to continually enhance my skills in software development 
 Let's build something incredible together! 🚀✨
 </h3> 
 
-<h2 align="center">💻Tech Stack:</h2>&nbsp;
+<h1 align="center">💻Tech Stack:</h1>&nbsp;
 
 <div align="center">
   
