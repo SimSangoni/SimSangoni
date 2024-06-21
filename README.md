@@ -47,7 +47,7 @@ Let's build something incredible together! 🚀✨
 <p align="center">
 <a href="https://www.instagram.com/simsangoni/" target="_blank"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram link" /></a>&nbsp;
 <a href="mailto:simnikiwesangoni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email address"/></a>&nbsp;
-<a href="https://simnikiwe-sangoni.netlify.app/"><img src="https://img.shields.io/badge/my%20website-8A2BE2.svg?&style=for-the-badge" alt="personal portfolio link"/></a>
+<a href="https://simnikiwe-sangoni-portfolio-site.netlify.app"><img src="https://img.shields.io/badge/my%20website-8A2BE2.svg?&style=for-the-badge" alt="personal portfolio link"/></a>
 <a href="https://www.linkedin.com/in/simnikiwe-sangoni-8a3892164/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn link" /></a>
 </p>
 </br>
