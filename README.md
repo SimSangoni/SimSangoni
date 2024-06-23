@@ -14,6 +14,16 @@ Let's build something incredible together! 🚀✨
 
 <h3 align="center">Completed ✅</h3>
 <h3 align="center">Ongoing 🕔</h3>
+
+
+<h2 align="center">🎵 ![Podcastly](https://podcastly.netlify.app/) | PORTFOLIO PIECE 💿</h2>
+<p align="center">
+Podcastly is a web application that allows users to explore and listen to a variety of podcast shows. Users can search for shows, sort them based on different criteria, and mark episodes as favourites. The application is built using React and TypeScript, and it is deployed on Netlify.
+  ![Link to Podcastly Repo](https://github.com/SimSangoni/SIMSAN455_WFO2401_B_Simnikiwe-Sangoni_DJS11)
+</p>
+
+
+
 <h3 align="center">Future 📃 </h3>
 
 <h1 align="center">💻Tech Stack:</h1>&nbsp;
