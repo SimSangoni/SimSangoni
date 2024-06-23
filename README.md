@@ -10,6 +10,12 @@ My overarching goal is to continually enhance my skills in software development 
 Let's build something incredible together! 🚀✨
 </h3> 
 
+<h1 align="center">Projects</h1>
+
+<h3 align="center">Completed ✅</h3>
+<h3 align="center">Ongoing 🕔</h3>
+<h3 align="center">Future 📃 </h3>
+
 <h1 align="center">💻Tech Stack:</h1>&nbsp;
 
 <div align="center">
@@ -33,12 +39,6 @@ Let's build something incredible together! 🚀✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsangoni&layout=donut)](https://github.com/simsangoni/github-readme-stats)
 </div>
 
-
-<h1 align="center">Projects</h1>
-
-<h3 align="center">Completed ✅</h3>
-<h3 align="center">Ongoing 🕔</h3>
-<h3 align="center">Future 📃 </h3>
 
 
 <br>
